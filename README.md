@@ -16,4 +16,3 @@ Giving descriptive names to the variables in data set.
 Melted the data set using melt for subject and actlabel.
 Created tidy data set using dcast.
 Written out tidy data set to a .txt file.
-
